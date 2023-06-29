@@ -7,6 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
+@CrossOrigin(origins = {"https://argentinaprogramayoprogramo.web.app"})
 @RequestMapping("/usuario")
 public class UsuarioController {
 

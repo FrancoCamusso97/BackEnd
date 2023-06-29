@@ -3,7 +3,6 @@ com\backfranco\demo\models\Skills.class
 com\backfranco\demo\services\EducacionService.class
 com\backfranco\demo\services\ExperienciaService.class
 com\backfranco\demo\Security\Controller\Mensaje.class
-com\backfranco\demo\DemoApplication$1.class
 com\backfranco\demo\repository\SkillsRepo.class
 com\backfranco\demo\services\UsuarioService.class
 com\backfranco\demo\controller\ExperienciaController.class
